@@ -7,6 +7,6 @@
 - Functional components in React
 - CSS Flex and Grid
 - CSS BEM Model
-- Soft and pleasant animations to 
+- Soft and pleasant animations
 - Complex gradients
 - Perfectly placed media queries for satisfactory responsiveness covering almost devices
